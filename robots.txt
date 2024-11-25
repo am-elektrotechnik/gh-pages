@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://am-elektrotechnik.github.io/gh-pages/sitemap.xml
