@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://am-elektrotechnik-gt.de/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://am-elektrotechnik-gt.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://am-elektrotechnik-gt.de/</loc>
+<loc>http://am-elektrotechnik-gt.de/</loc>
 </url>
 <url>
-<loc>https://am-elektrotechnik-gt.de/datenschutzerklaerung.html</loc>
+<loc>http://am-elektrotechnik-gt.de/datenschutzerklaerung.html</loc>
 <lastmod>2024-11-25T16:21:34+01:00</lastmod>
 </url>
 <url>
-<loc>https://am-elektrotechnik-gt.de/impressum.html</loc>
+<loc>http://am-elektrotechnik-gt.de/impressum.html</loc>
 <lastmod>2024-11-25T16:39:01+01:00</lastmod>
 </url>
 <url>
-<loc>https://am-elektrotechnik-gt.de/landing-page.html</loc>
+<loc>http://am-elektrotechnik-gt.de/landing-page.html</loc>
 <lastmod>2024-11-25T15:06:16+01:00</lastmod>
 <image:image>
-<image:loc>https://am-elektrotechnik-gt.de/media\posts\1/AM_Logo_color.png</image:loc>
+<image:loc>http://am-elektrotechnik-gt.de/media\posts\1/AM_Logo_color.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
