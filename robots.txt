@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://am-elektrotechnik-gt.de/sitemap.xml
+Sitemap: https://am-elektrotechnik-gt.de/sitemap.xml
